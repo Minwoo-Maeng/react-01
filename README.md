@@ -1,2 +1,2 @@
 ## React test
- Hello!
+ Hello! I'm Minwoo from korea.
